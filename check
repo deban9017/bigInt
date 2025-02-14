@@ -1,0 +1,10 @@
+for f in *.txt
+do
+  python3 hw1.py $f > look
+  diff look output/$f > /dev/null
+  if [ $? -ne 0 ]
+  then
+    echo $f
+  fi
+  rm look
+done

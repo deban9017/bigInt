@@ -1,0 +1,4 @@
+D:/codes/UMC201/HW1/build/CMakeFiles/UltraIntLib.dir
+D:/codes/UMC201/HW1/build/CMakeFiles/main.dir
+D:/codes/UMC201/HW1/build/CMakeFiles/edit_cache.dir
+D:/codes/UMC201/HW1/build/CMakeFiles/rebuild_cache.dir
