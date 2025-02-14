@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/codes/UMC201/HW1/build",
+  "command": "C:/mingw64/bin/gcc.exe -DUltraIntLib_EXPORTS  -g -o CMakeFiles/UltraIntLib.dir/ultra.c.obj -c D:/codes/UMC201/HW1/ultra.c",
+  "file": "D:/codes/UMC201/HW1/ultra.c",
+  "output": "CMakeFiles/UltraIntLib.dir/ultra.c.obj"
+},
+{
+  "directory": "D:/codes/UMC201/HW1/build",
+  "command": "C:/mingw64/bin/gcc.exe   -g -o CMakeFiles/main.dir/main.c.obj -c D:/codes/UMC201/HW1/main.c",
+  "file": "D:/codes/UMC201/HW1/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "D:/codes/UMC201/HW1/build",
+  "command": "C:/mingw64/bin/gcc.exe   -g -o CMakeFiles/main.dir/ultra.c.obj -c D:/codes/UMC201/HW1/ultra.c",
+  "file": "D:/codes/UMC201/HW1/ultra.c",
+  "output": "CMakeFiles/main.dir/ultra.c.obj"
+}
+]
